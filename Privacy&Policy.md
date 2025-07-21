@@ -17,18 +17,13 @@ Penyedia Layanan dapat menggunakan informasi yang Anda berikan untuk menghubungi
 Untuk pengalaman yang lebih baik saat menggunakan Aplikasi, Penyedia Layanan mungkin meminta Anda memberikan informasi identitas pribadi tertentu. Informasi yang diminta akan disimpan oleh Penyedia Layanan dan digunakan sebagaimana dijelaskan dalam kebijakan privasi ini.
 
 ## Akses Pihak Ketiga
-Hanya data agregat dan anonim yang secara berkala dikirimkan ke layanan eksternal untuk membantu Penyedia Layanan dalam meningkatkan Aplikasi dan layanannya. Penyedia Layanan dapat membagikan informasi Anda kepada pihak ketiga sebagaimana dijelaskan dalam pernyataan privasi ini.
-
 Penyedia Layanan dapat mengungkapkan Informasi yang Diberikan Pengguna dan Informasi yang Dikumpulkan Secara Otomatis:
 - sebagaimana diwajibkan oleh hukum, seperti untuk memenuhi panggilan pengadilan, atau proses hukum serupa;
 - ketika mereka meyakini dengan itikad baik bahwa pengungkapan diperlukan untuk melindungi hak mereka, melindungi keselamatan Anda atau orang lain, menyelidiki penipuan, atau menanggapi permintaan pemerintah;
 - kepada penyedia layanan tepercaya yang bekerja atas nama mereka, tidak memiliki penggunaan independen atas informasi yang kami ungkapkan kepada mereka, dan telah menyetujui untuk mematuhi aturan yang ditetapkan dalam pernyataan privasi ini.
 
-## Hak Opt-Out
-Anda dapat menghentikan semua pengumpulan informasi oleh Aplikasi dengan mudah dengan mencopot pemasangannya. Anda dapat menggunakan proses pencopotan standar yang tersedia sebagai bagian dari perangkat mobile Anda atau melalui toko aplikasi mobile.
-
 ## Kebijakan Retensi Data
-Penyedia Layanan akan menyimpan Data yang Diberikan Pengguna selama Anda menggunakan Aplikasi dan untuk waktu yang wajar setelahnya. Jika Anda ingin mereka menghapus Data yang Diberikan Pengguna yang telah Anda berikan melalui Aplikasi, silakan hubungi di mudu.mulaiajadulu@gmail.com dan mereka akan merespons dalam waktu yang wajar.
+Penyedia Layanan akan menyimpan Data yang Diberikan Pengguna selama Anda menggunakan Aplikasi dan untuk waktu yang wajar setelahnya. Anda dapat menghapus Data yang Diberikan Pengguna yang telah Anda berikan melalui Aplikas dengan mencopot pemasangannya
 
 ## Anak-Anak
 Penyedia Layanan tidak menggunakan Aplikasi untuk secara sadar meminta data dari atau memasarkan kepada anak-anak di bawah usia 13 tahun.
